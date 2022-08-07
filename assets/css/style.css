@@ -1,0 +1,40 @@
+.lista{
+  list-style-type: none;
+}
+
+.ancora:hover{
+  text-decoration: underline;
+  color: red;
+  font-weight: 700;
+
+}
+
+.ancora{
+  text-decoration: none;
+  color: black;
+}
+
+.active{
+  text-decoration: underline;
+  color: red;
+  font-weight: 700;
+}
+
+.titulo{
+  font-family:'Staatliches';
+}
+
+.texto{
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.rounded-circle{
+  height: 12px;
+  width: 12px;
+}
+
+.font{
+  font-size: small;
+}
